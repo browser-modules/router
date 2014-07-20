@@ -1,0 +1,29 @@
+{
+  "name": "mako-router",
+  "version": "0.0.0",
+  "description": "Minimal router for client based on url fragment",
+  "main": "Router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browser-modules/router.git"
+  },
+  "keywords": [
+    "router",
+    "browserify"
+  ],
+  "author": "Jake Scott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/browser-modules/router/issues"
+  },
+  "homepage": "https://github.com/browser-modules/router",
+  "dependencies": {
+    "mako-event-emitter": "0.0.0",
+    "browserify": "^4.2.3",
+    "dox": "^0.4.6",
+    "dox-github": "0.0.3"
+  }
+}
